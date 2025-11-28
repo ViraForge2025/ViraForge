@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>کارت ویزیت من</title>
+</head>
+
+<!--اینجا شروع می کنم-->
+<style>
+    .container{
+        width: 400px;
+        margin: 50px auto;
+        padding: 30px;
+        background: #1a1a1a;
+        color: white;
+        text-align: center;
+        border-radius: 20px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        font-family: Tahoma,sans-serif;
+    }
+    .name{
+        font-size: 28px;
+        margin: 10px 0;
+        color: #00ff88;
+    }
+    .job{
+        color: #aaa;
+        margin-bottom: 20px;
+    }
+    .social{
+        margin-top: 30px;
+    }
+    .social a{
+        color: white;
+        margin: 0 15px;
+        font-size: 30px;
+        text-decoration: none;
+
+    }
+</style>
+<body bgcolor="#121212">
+
+    <div class="container">
+        <img src="profile2.ipg.jpg" width="150" style="border-radius: 50%; border: 5px solid #00ff88;">
+
+        <div class="name">viraforge</div>
+        <div class="job"><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>کارت ویزیت من</title>
+</head>
+
+<!--اینجا شروع می کنم-->
+<style>
+    .container{
+        width: 400px;
+        margin: 50px auto;
+        padding: 30px;
+        background: #1a1a1a;
+        color: white;
+        text-align: center;
+        border-radius: 20px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        font-family: Tahoma,sans-serif;
+    }
+    .name{
+        font-size: 28px;
+        margin: 10px 0;
+        color: #00ff88;
+    }
+    .job{
+        color: #aaa;
+        margin-bottom: 20px;
+    }
+    .social{
+        margin-top: 30px;
+    }
+    .social a{
+        color: white;
+        margin: 0 15px;
+        font-size: 30px;
+        text-decoration: none;
+
+    }
+</style>
+<body bgcolor="#121212">
+
+    <div class="container">
+        <img src="" width="150" style="border-radius: 50%; border: 5px solid #00ff88;">
+
+        <div class="name">viraforge</div>
+        <div class="job">فرانت‌اند دولوپر در حال تبدیل شدن به پادشاه</div>
+
+        <div class="social">
+            <a href="#">instagram</a>
+            <a href="#">telegram</a>
+            <a href="#">GitHub</a>
+        </div>
+    </div>
+    
+</body>
+</html>
+
+
+</div>
+
+        <div class="social">
+            <a href="#">instagram</a>
+            <a href="#">telegram</a>
+            <a href="#">GitHub</a>
+        </div>
+    </div>
+    
+</body>
+</html>
+
+
